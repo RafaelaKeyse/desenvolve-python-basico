@@ -1,0 +1,6 @@
+admin,admin123,admin
+tecnico1,tec123,tecnico
+tecnico2,tec234,tecnico
+funcionario,func123,tecnico
+cliente1,cli123,cliente
+cliente2,cli234,cliente

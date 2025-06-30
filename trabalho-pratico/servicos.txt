@@ -1,0 +1,6 @@
+1,Troca de vela,50.0,10
+2,Limpeza de queimador,80.0,5
+3,Conserto de válvula,100.0,7
+4,Manutenção geral,150.0,3
+5,Substituição de termopar,60.0,12
+6,Ajuste do forno,70.0,6
